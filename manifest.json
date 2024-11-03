@@ -1,0 +1,35 @@
+{
+    "name": "mymess",
+    "short_name": "mymess",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FF4D4B",
+    "theme_color": "#FF4D4B",
+    "description": "Mess Management Application for Sagar Mens Hostel",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
