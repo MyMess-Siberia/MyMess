@@ -109554,32 +109554,32 @@ A.aKR.prototype={
 $0(){A.U8(this.a,"Meal Count")},
 $S:0}
 A.aKT.prototype={
-$3(a1,a2,a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=a2.f,b=e.b!=null&&c!=null,a=e.c,a0=t.p
-if(b){s=c.d
-r=c.y
-q=c.CW
-p=c.dx
-b=A.af(d,a*0.11,d)
+$3(a0,a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d=a1.f,c=f.b!=null&&d!=null,b=f.c,a=t.p
+if(c){s=d.d
+r=d.y
+q=d.CW
+p=d.dx
+c=A.af(e,b*0.07,e)
 q.toString
-o=a*0.04
-n=A.cY(A.bE(A.a([new A.ZK(e.a.gay4(),q,d),A.af(d,o,d)],a0),B.p,B.C,B.q),!1,!1,!1,!s)
-m=a*0.06
-l=a*0.05
-k=A.cY(A.bE(A.a([A.af(d,m,d),A.d5(A.a6("OPEN SCANNER",d,d,d,d,d,d),new A.aKQ(a1),e.d),A.af(d,l,d)],a0),B.p,B.C,B.q),!1,!1,!1,s)
-j=A.a6("Hi, "+r+"!",d,d,d,$.d9().eu(l,B.a0),d,d)
+o=b*0.04
+n=A.cY(A.bE(A.a([new A.ZK(f.a.gay4(),q,e),A.af(e,o,e)],a),B.p,B.C,B.q),!1,!1,!1,!s)
+m=b*0.06
+l=b*0.05
+k=A.cY(A.bE(A.a([A.af(e,m,e),A.d5(A.a6("OPEN SCANNER",e,e,e,e,e,e),new A.aKQ(a0),f.d),A.af(e,l,e)],a),B.p,B.C,B.q),!1,!1,!1,s)
+j=A.a6("Hi, "+r+"!",e,e,e,$.d9().eu(l,B.a0),e,e)
 if(s){i=t.tK
-A.eY(a1,!0,i)
-i=A.cN(new A.aL(Date.now(),!1))===1&&p!==A.eY(a1,!0,i).fY()}else i=!1
-h=a*0.1
-i=A.cY(A.bE(A.a([A.af(d,l,d),new A.aI(new A.a3(h,0,h,0),A.a6("IMPORTANT: Please start a new cycle from the Generate Bill page!",d,d,d,$.d9().qU(B.I,a*0.045,B.a0),B.U,d),d)],a0),B.p,B.C,B.q),!1,!1,!1,i)
-l=A.af(d,l,d)
-h=s?B.HK:B.HM
-g=A.af(d,d,o)
-h=A.c4(A.a([h,g,s?B.HN:B.HQ],a0),B.p,B.aP,B.q)
-g=A.af(d,m,d)
-f=s?B.HP:B.HR
-o=A.af(d,d,o)
-return A.bE(A.a([b,n,k,j,i,l,h,g,A.c4(A.a([f,o,s?B.HO:B.HL],a0),B.p,B.aP,B.q),A.af(d,m,d),A.af(d,a*0.08,d)],a0),B.p,B.aP,B.q)}else return A.dx(A.bE(A.a([A.af(d,a,d),A.pu(B.I)],a0),B.p,B.C,B.q),d,d)},
+A.eY(a0,!0,i)
+i=A.cN(new A.aL(Date.now(),!1))===1&&p!==A.eY(a0,!0,i).fY()}else i=!1
+h=b*0.1
+i=A.cY(A.bE(A.a([A.af(e,l,e),new A.aI(new A.a3(h,0,h,0),A.a6("IMPORTANT: Please start a new cycle from the Generate Bill page!",e,e,e,$.d9().qU(B.I,b*0.045,B.a0),B.U,e),e)],a),B.p,B.C,B.q),!1,!1,!1,i)
+l=A.af(e,l,e)
+b=s?B.HK:B.HM
+h=A.af(e,e,o)
+b=A.c4(A.a([b,h,s?B.HN:B.HQ],a),B.p,B.aP,B.q)
+h=A.af(e,m,e)
+g=s?B.HP:B.HR
+o=A.af(e,e,o)
+return A.bE(A.a([c,n,k,j,i,l,b,h,A.c4(A.a([g,o,s?B.HO:B.HL],a),B.p,B.aP,B.q),A.af(e,m,e)],a),B.p,B.aP,B.q)}else return A.dx(A.bE(A.a([A.af(e,b,e),A.pu(B.I)],a),B.p,B.C,B.q),e,e)},
 $C:"$3",
 $R:3,
 $S:694}
