@@ -1,6 +1,6 @@
 {
-    "name": "mymess",
-    "short_name": "mymess",
+    "name": "mymess_siberia",
+    "short_name": "mymess_siberia",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FF4D4B",
