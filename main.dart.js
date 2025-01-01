@@ -118253,15 +118253,16 @@ s=$.bX()
 r=s.a.gda()
 q=s.w
 if(q!=null&&r!=null)this.Ge(q.dy,r.a.c.a.a,q.e)},
-H(a){var s,r,q,p=null,o=t.tK,n=A.js(a,!0,o).a.gda(),m=A.aD(a,p,t.w).w.a.a,l=t.R,k=m*0.038,j=m*0.05,i=m*0.04,h=A.eY(p,p,p,new A.V(B.K,l),new A.V(0,t.U),p,p,p,new A.V(B.o,l),p,p,p,p,p,p,new A.V(new A.a4(j,k,j,k),t.WY),p,new A.V(new A.bZ(A.cN(i),B.q),t._o),p,p,p,p,p,p)
-k=m*0.045
-s=A.b1().$3$color$fontSize$fontWeight(B.K,k,B.a2)
-r=A.b1().$2$fontSize$fontWeight(k,B.v)
-q=A.b1().$2$fontSize$fontWeight(j,B.y)
-j=t.p
-l=m*0.03
-k=A.bc_(B.K,A.b60(A.a([A.bc0(A.b60(A.a([A.a5(A.ly("assets/app_icon.png",B.bo,p,p),m*0.15,p),A.cO(A.YB(new A.aVO(m),A.Vl(),t.N),p,p)],j))),A.a5(p,i,p),new A.aH(new A.a4(l,0,l,0),A.xE(new A.a4(i,0,i,0),new A.aVP(),new A.bZ(A.cN(i),B.q),p,B.q2,A.Y("Log Out",p,p,p,A.ei(p,p,B.o,p,p,p,p,p,p,p,p,k,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.a6,p)),p)],j)))
-return A.ht(B.n0,A.zf(A.by(A.a([A.ww(new A.aVQ(this,n,m,h,q,s,r),o)],j),B.p,B.az,B.m),p,B.a0u,p,p,B.C),k,!1)}}
+H(a){var s,r,q,p,o=null,n=t.tK,m=A.js(a,!0,n).a.gda(),l=A.aD(a,o,t.w).w.a.a,k=t.R,j=l*0.038,i=l*0.05,h=l*0.04,g=A.eY(o,o,o,new A.V(B.K,k),new A.V(0,t.U),o,o,o,new A.V(B.o,k),o,o,o,o,o,o,new A.V(new A.a4(i,j,i,j),t.WY),o,new A.V(new A.bZ(A.cN(h),B.q),t._o),o,o,o,o,o,o)
+j=l*0.045
+s=A.b1().$3$color$fontSize$fontWeight(B.K,j,B.a2)
+r=A.b1().$2$fontSize$fontWeight(j,B.v)
+q=A.b1().$2$fontSize$fontWeight(i,B.y)
+i=l*0.1
+k=t.p
+p=l*0.03
+j=A.bc_(B.K,A.b60(A.a([A.bc0(A.b60(A.a([A.a5(o,i,o),A.a5(A.ly("assets/app_icon.png",B.bo,o,o),i,o),A.cO(A.YB(new A.aVO(l),A.Vl(),t.N),o,o)],k))),A.a5(o,h,o),new A.aH(new A.a4(p,0,p,0),A.xE(new A.a4(h,0,h,0),new A.aVP(),new A.bZ(A.cN(h),B.q),o,B.q2,A.Y("Log Out",o,o,o,A.ei(o,o,B.o,o,o,o,o,o,o,o,o,j,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.a6,o)),o)],k)))
+return A.ht(B.n0,A.zf(A.by(A.a([A.ww(new A.aVQ(this,m,l,g,q,s,r),n)],k),B.p,B.az,B.m),o,B.a0u,o,o,B.C),j,!1)}}
 A.aVS.prototype={
 $1(a){var s,r,q,p,o,n=null
 $.bX()
